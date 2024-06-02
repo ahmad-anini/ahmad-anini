@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **ASP.NET**
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/ahmad-anini?tab=repositories">repositories</a>
+- 👨‍💻 All of my projects are available at <a href="https://github.com/ahmad-anini?tab=repositories">My Repositories</a>
 
 - 💬 Ask me about **React , js**
 
 - 📫 How to reach me **ahmadanini86@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1c4_7bOHc907a6N80zW9wywU15t8fbz7S/view?usp=sharing](my cv)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1c4_7bOHc907a6N80zW9wywU15t8fbz7S/view?usp=sharing">My CV</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,4 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmad-anini&show_icons=true&locale=en" alt="ahmad-anini" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmad-anini&" alt="ahmad-anini" /></p>
+
 
