@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ahmadanini86@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1-0MxMkC-AnudwYFJCGDyozDEx6MWk1oV/view?usp=drive_link">My CV</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1GSQQAgRUkWYs9S57rfibpGXHEtwoAwQ9/view?usp=drive_link">My CV</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
